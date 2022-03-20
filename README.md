@@ -1,4 +1,4 @@
-# stats220
+# About this repo
 
 This is my GitHub repository for the STATS220 course at the University of Auckland.
 
