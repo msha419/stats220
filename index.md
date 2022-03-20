@@ -1,6 +1,6 @@
 # Memes
 
-This file contains my meme, created using the R package magick, as well as the code used to create it.
+&This file contains my meme, created using the R package magick, as well as the code used to create it.&
 
 ![](my_meme.png)
 
