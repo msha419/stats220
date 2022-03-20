@@ -10,6 +10,8 @@ For this meme, I have taken inspiration from the recent resurgence of the trollf
 used in this meme. The caption and idea comes from my own experience with assignments at uni, where I always would like to start them early,
 but inevitably end up leaving them until the last night before they are due.
 
+## Code
+
 ```
 library(magick)
 
