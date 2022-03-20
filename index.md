@@ -9,10 +9,14 @@ For this meme, I have taken inspiration from the recent resurgence of the trollf
 used in this meme. The caption and idea comes from my own experience with assignments at uni, where I always would like to start them early,
 but inevitably end up leaving them until the last night before they are due.
 
-In order to construct the meme, I combines together the following three images
+In order to construct the meme, I combined together the following three images
 
 1. ![](https://i.kym-cdn.com/photos/images/newsfeed/001/996/641/bc2.jpg)
+2. ![](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
+3. ![](https://mindfullivingnetwork.com/wp-content/uploads/2019/04/3am.jpg)
 
+I then created a blank black image with text annotated to it for the top right part of the meme, as well as adding a black
+background to the entire meme to fill in transparent parts.
 
 ## Code
 
